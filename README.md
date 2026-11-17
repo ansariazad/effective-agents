@@ -241,4 +241,4 @@ MIT © 2026
 
 ## Author
 
-**Azad Ansari** — [GitHub](https://github.com/ansariazad) | [AutoShorts](https://github.com/ansariazad/AutoShorts)
+**Azad Ansari** — [GitHub](https://github.com/ansariazad)
